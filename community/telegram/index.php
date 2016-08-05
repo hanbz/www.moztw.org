@@ -28,7 +28,7 @@ if ($_COOKIE['tg_lang'] != 'zh') {
 		<link rel="stylesheet" type="text/css" media="all" href="/css/telegram.css">
 <?php echo file_get_contents('../../sandstone/iefix.shtml'); ?>
 	</head>
-<body>
+    <body>
 <?php echo file_get_contents('../../sandstone/header.shtml'); ?>
   <div id="wrap">
 		<div id="recaptcha">
@@ -53,7 +53,7 @@ if ($_COOKIE['tg_lang'] != 'zh') {
 		<!-- Public to bots -->
 		<div id="sticker" style="display: none">
 			<a href="https://telegram.me/addstickers/Foxmosa" target="_blank" title="Foxmosa Telegram 貼圖">Foxmosa Sticker</a>
-			<div>加入狐爾摩莎（小莎）的 telegram 貼紙之連結。</div>
+			<div>加入狐爾摩莎（小莎）的 Telegram 貼圖之連結。</div>
 		</div>
 
 		<p>切換語言 <select id="lang" onchange="change_lang()">
