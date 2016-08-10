@@ -50,7 +50,7 @@ $links = Array(
         'id' => 'AfQlCwDFQfpL6bDCEJuv8g',
         'name' => 'MozTW 手工藝群組',
         'description' => 'MozTW 手工藝設計討論',
-        'introduction' => '手工藝子頻道。例如拼豆、布偶等，主要以與 mozilla 相關周邊為主，好玩吸引人，軟性的設計討論。',
+        'introduction' => '手工藝子頻道。例如：布偶...等，主要以與 mozilla 相關周邊為主，好玩吸引人，軟性的設計討論。',
         'tags' => Array(
             'zh-tw',
         ),
